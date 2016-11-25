@@ -148,6 +148,7 @@ NEW_TESTS = test_arglist.res \
 	    test_cmdline.res \
 	    test_crypt.res \
 	    test_cscope.res \
+	    test_dictionary.res \
 	    test_diffmode.res \
 	    test_digraph.res \
 	    test_farsi.res \
